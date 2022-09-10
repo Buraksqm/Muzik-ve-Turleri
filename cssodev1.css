@@ -1,0 +1,41 @@
+a:link{
+    text-decoration:none;
+    }
+a{ 
+    color: rgb(97, 13, 0);
+    }
+
+#header {
+    text-align: center;
+    font-style: normal;
+    font-size: 25px;
+}
+
+body {
+background-image: url(music.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+font-family: "Raleway", Arial, sans-serif;
+}
+
+
+aside {
+font-size: 18px;
+display: flex;
+position: fixed;
+width: 20%;
+height: 100%;
+}
+
+
+
+.makale {
+position: relative;
+font-weight: bolder;
+margin-left: 25%;
+}
+
+h2,h3 {
+color: rgb(13, 59, 144);
+}
